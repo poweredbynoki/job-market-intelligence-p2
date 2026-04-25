@@ -1,7 +1,4 @@
 # Job Market Intelligence — Phase 2
-
-> Everyone told me to learn SQL. Nobody told me companies stopped posting jobs called "Data Analyst."
-
 ---
 
 ## What this is
