@@ -109,7 +109,7 @@ Before uploading the notebook to GitHub: open the `.ipynb` in a text editor, Ctr
 
 Non-traditional path. Combat Medic (68W), Lobby Operations Coordinator at Crisis24 supporting DoorDash HQ, BBA Information Systems magna cum laude.
 
-Domain expertise in healthcare and operations, two of the fastest-growing sectors for data roles in 2026. Built this because I was job searching and did not want to guess which skills to prioritize. Treated it as a research question. Used the findings to decide what to learn next.
+Domain expertise in healthcare and operations, two of the fastest-growing sectors for data roles in 2026. Treated it as a research question. Used the findings to decide what to learn next.
 
 Limitations are documented. Findings are real. Stack was chosen from the data.
 
